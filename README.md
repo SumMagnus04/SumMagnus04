@@ -7,7 +7,7 @@
   - DynamicArrayC
 
 - I have collaborated on these projects
-  - BackwardsLang
+  - OppositeDayLang
 <!--
 **SumMagnus04/SumMagnus04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
