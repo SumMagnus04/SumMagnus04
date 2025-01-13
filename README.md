@@ -1,4 +1,4 @@
-## Hi there 👋
+## Howdy, My name is Zeph Smith
 
 <!--
 **SumMagnus04/SumMagnus04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
