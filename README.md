@@ -7,7 +7,7 @@
   - DynamicArrayC (https://github.com/SumMagnus04/DynamicArrayC): A basic dynamic array library for C, since C doesn't have its own.
 
 - I have collaborated on these projects
-  - OppositeDayLang
+  - OppositeDayLang (https://github.com/ChristianRogers1/OppositeDayLang): A "programming language" where everything is backwards. Written in one night for fun. Results may very.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SumMagnus04&theme=cobalt&show_icons=true&hide_border=true&layout=compact)
 
