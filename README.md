@@ -10,7 +10,7 @@
   - OppositeDayLang
 
 Additional Works In Progress:
-![IMG_2340](https://github.com/user-attachments/assets/7c9ab3b5-af40-4edb-bbdc-5b67f2da5048 | width=250)
+![IMG_2340](https://github.com/user-attachments/assets/7c9ab3b5-af40-4edb-bbdc-5b67f2da5048 =250x250)
 ![IMG_2525](https://github.com/user-attachments/assets/31f34871-62e6-49ed-949e-ee30180b6a7c)
 ![IMG_2754](https://github.com/user-attachments/assets/637a1537-d162-4a00-82bc-dcfa73260911)
  
