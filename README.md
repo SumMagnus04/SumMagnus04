@@ -4,7 +4,7 @@
 
 - I have a number of projects currently in progress
   - 3DMB (https://github.com/SumMagnus04/3DMB): A simple graphics engine written in C. Right now it functions more as a library than its own engine.
-  - DynamicArrayC
+  - DynamicArrayC (https://github.com/SumMagnus04/DynamicArrayC): A basic dynamic array library for C, since C doesn't have its own.
 
 - I have collaborated on these projects
   - OppositeDayLang
