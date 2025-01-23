@@ -3,7 +3,7 @@
 - I am currently studying Computer Science at the University of Utah
 
 - I have a number of projects currently in progress
-  - 3DMB (https://github.com/SumMagnus04/3DMB): I simple graphics engine written in C. Right now it functions more as a library than its own engine.
+  - 3DMB (https://github.com/SumMagnus04/3DMB): A simple graphics engine written in C. Right now it functions more as a library than its own engine.
   - DynamicArrayC
 
 - I have collaborated on these projects
