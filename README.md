@@ -9,7 +9,7 @@
 - I have collaborated on these projects
   - OppositeDayLang
 
-Additional Works In Progress:
+Additional Work In Progress:
 
 <img src="https://github.com/user-attachments/assets/7c9ab3b5-af40-4edb-bbdc-5b67f2da5048" width="250" height="333"/>
 <img src="https://github.com/user-attachments/assets/31f34871-62e6-49ed-949e-ee30180b6a7c" width="250" height="333" />
